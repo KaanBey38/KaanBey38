@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaanBey38
+- 👋 Hi, I’m @KaanSalt
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate
