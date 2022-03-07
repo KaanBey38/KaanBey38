@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaanBey38
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me  kaansalt@hotmail.com
 
